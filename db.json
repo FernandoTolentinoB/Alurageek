@@ -1,0 +1,37 @@
+{
+  "producto": [
+    {
+      "name": "Taza Star Wars",
+      "imageUrl": "../assets/taza trupper.png",
+      "price": "59.9",
+      "id": 1,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": ""
+    },
+    {
+      "name": "Mini Darth",
+      "imageUrl": "../assets/mini darth.png",
+      "price": "80",
+      "id": 21
+    },
+    {
+      "name": "Yoda",
+      "imageUrl": "../assets/yoda.png",
+      "price": "60",
+      "id": 23
+    },
+    {
+      "name": "Trupper",
+      "imageUrl": "../assets/trupper.png",
+      "price": "90",
+      "id": 30
+    },
+    {
+      "name": "Baby Yoda",
+      "imageUrl": "../assets/grogu-exposito.png",
+      "price": "150",
+      "id": "e86b2173-0fb6-4327-8324-9aaf33c1cf6d"
+    }
+  ]
+}
